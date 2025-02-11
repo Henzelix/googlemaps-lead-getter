@@ -3,6 +3,7 @@
 Fetch details about businesses from given location and save them into .CSV using Google Places API and Streamlit
 
 ![postspark_export_2025-02-11_18-23-48](https://github.com/user-attachments/assets/3d63c361-9c4a-45df-ad84-9d61150ae298)
+Graphic made in [Postspark](https://postspark.app/)
 
 ## Prerequisites
 
